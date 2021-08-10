@@ -1,0 +1,1 @@
+parallel is used in dc series motor
